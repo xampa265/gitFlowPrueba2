@@ -1,1 +1,4 @@
 entidad usuario
+private username
+private password
+private email
